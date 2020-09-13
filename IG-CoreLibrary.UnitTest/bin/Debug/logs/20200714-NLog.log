@@ -1,0 +1,53 @@
+2020-07-14 21:19:09.2300|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:19:11.9959|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:19:13.1968|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:20:46.9918|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:20:49.5796|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:20:51.7274|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:25:42.6671|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:25:44.1588|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:25:56.0813|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:27:38.4891|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:27:40.0531|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:27:50.5515|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:30:01.0870|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:30:02.8977|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:30:29.2240|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:30:35.8350|INFO|IG_CoreLibrary.BaseRepository|Init method::WritePhoneBooksToFile
+2020-07-14 21:30:37.5300|INFO|IG_CoreLibrary.BaseRepository|Method::WritePhoneBooksToFile:: Creating the file json
+2020-07-14 21:32:22.6870|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:32:24.9639|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:32:30.1429|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:32:59.5802|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:33:01.2020|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:33:02.6471|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:33:07.1749|INFO|IG_CoreLibrary.BaseRepository|Init method::WritePhoneBooksToFile
+2020-07-14 21:33:11.7356|INFO|IG_CoreLibrary.BaseRepository|End method::WritePhoneBooksToFile
+2020-07-14 21:33:14.8089|INFO|IG_CoreLibrary.BaseRepository|End method::CreatePhoneBook
+2020-07-14 21:34:05.6831|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:34:05.7050|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:34:05.8821|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-07-14 21:34:05.8841|INFO|IG_CoreLibrary.BaseRepository|Init method::WritePhoneBooksToFile
+2020-07-14 21:34:05.9076|INFO|IG_CoreLibrary.BaseRepository|End method::WritePhoneBooksToFile
+2020-07-14 21:34:05.9076|INFO|IG_CoreLibrary.BaseRepository|End method::CreatePhoneBook
+2020-07-14 21:34:11.6316|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:34:11.6522|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:34:11.7599|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-07-14 21:34:11.7599|INFO|IG_CoreLibrary.BaseRepository|Init method::WritePhoneBooksToFile
+2020-07-14 21:34:11.7838|INFO|IG_CoreLibrary.BaseRepository|End method::WritePhoneBooksToFile
+2020-07-14 21:34:11.7838|INFO|IG_CoreLibrary.BaseRepository|End method::CreatePhoneBook
+2020-07-14 21:34:22.9152|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:34:24.6580|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:35:05.6996|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-07-14 21:37:11.1947|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:37:12.6709|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:37:18.7011|INFO|IG_CoreLibrary.BaseRepository|Method::ReadPhoneBooks:: Creating the file json
+2020-07-14 21:37:20.9601|INFO|IG_CoreLibrary.BaseRepository|Init method::WritePhoneBooksToFile
+2020-07-14 21:37:22.6374|INFO|IG_CoreLibrary.BaseRepository|End method::WritePhoneBooksToFile
+2020-07-14 21:37:23.8210|INFO|IG_CoreLibrary.BaseRepository|End method::CreatePhoneBook
+2020-07-14 21:37:44.5266|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 21:37:46.4163|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 21:37:49.8902|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-07-14 22:34:38.3454|INFO|IG_CoreLibrary.BaseRepository|Init method::CreatePhoneBook
+2020-07-14 22:34:40.2469|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-07-14 22:34:42.9106|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks

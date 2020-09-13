@@ -1,0 +1,4 @@
+2020-09-01 20:18:52.4486|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadAllPhoneBooks
+2020-09-01 20:18:54.5810|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-09-01 20:18:56.1413|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-09-01 20:18:56.8359|INFO|IG_CoreLibrary.BaseRepository|End method::ReadAllPhoneBooks

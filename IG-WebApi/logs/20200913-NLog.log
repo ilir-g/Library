@@ -1,0 +1,8 @@
+2020-09-13 12:01:12.3012|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadAllPhoneBooks
+2020-09-13 12:01:14.6977|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-09-13 12:01:15.0509|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-09-13 12:01:15.0509|INFO|IG_CoreLibrary.BaseRepository|End method::ReadAllPhoneBooks
+2020-09-13 12:01:24.6572|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadAllPhoneBooks
+2020-09-13 12:01:25.8744|INFO|IG_CoreLibrary.BaseRepository|Init method::ReadPhoneBooks
+2020-09-13 12:01:25.8744|INFO|IG_CoreLibrary.BaseRepository|End method::ReadPhoneBooks
+2020-09-13 12:01:25.8744|INFO|IG_CoreLibrary.BaseRepository|End method::ReadAllPhoneBooks
